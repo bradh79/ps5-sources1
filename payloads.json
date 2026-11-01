@@ -1,0 +1,13 @@
+{
+  "name": "My Payloads",
+  "payloads": [
+    {
+      "name": "HyperHEN",
+      "filename": "HyperHEN-v0.9.4.elf",
+      "url": "https://github.com/Michele-M-Media/HYPERHEN/releases/download/HYPERHEN_V0_9_4/HyperHEN-v0.9.4.elf",
+      "description": "All-in-one PS5 HEN and Toolbox. Needs an already jailbroken console and elfldr on port 9021.",
+      "version": "v0.9.4",
+      "category": "HEN"
+    }
+  ]
+}
